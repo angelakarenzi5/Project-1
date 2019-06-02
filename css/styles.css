@@ -1,0 +1,28 @@
+ body{
+   background-color:red;
+ }
+ .main{
+    text-align:center;
+    margin-top:150px;
+ }
+
+ h1{
+     font-size:50px;
+ }
+ input[type=text], select {
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+ }
+ 
+button {
+   padding: 14px 20px;
+   margin: 10px 0;
+   border: none;
+   border-radius: 17px;
+ }
+
+ 
+ 
